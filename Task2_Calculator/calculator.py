@@ -2,7 +2,7 @@ print("===== SIMPLE CALCULATOR =====")
 
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
-
+ 
 print("\nChoose an operation:")
 print("1. Addition")
 print("2. Subtraction")
