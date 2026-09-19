@@ -5,7 +5,7 @@
 A simple Python calculator designed to perform basic arithmetic operations.
 
 ## Features
-
+ 
 - Addition
 - Subtraction
 - Multiplication
