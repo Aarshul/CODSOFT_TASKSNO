@@ -16,4 +16,4 @@ A simple Python calculator designed to perform basic arithmetic operations.
 ## How to Run
 
 ```bash
-python calculator.py
+python calculator.py 
